@@ -8,19 +8,17 @@ html(lang="en")
     meta(name="viewport" content="width=device-width, initial-scale=1.0")
     meta(http-equiv="X-UA-Compatible" content="ie=edge")
     title #{title}
-    //link(
-    //rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css"
-    //)
     block HeadScript
 
   body(class=pageClass)
+  block script
     .wrapper
-      include ../includes/modules/header
-      include ../includes/modules/nav
+      //include ../includes/modules/header
+      //include ../includes/modules/nav
 
       .content-wrapper
         block content
-      include ../includes/modules/footer
+      //include ../includes/modules/footer
 
-  block script
+
 
