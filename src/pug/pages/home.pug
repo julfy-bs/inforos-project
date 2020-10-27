@@ -1,9 +1,12 @@
 extends ../layout/main
 
 block variables
-  - var title = ''
+  - var title = 'Информационное агентство Инфорос - Главная'
   - var pageClass = 'home-page'
 
 block content
   main.main-content
-    h1 yo all!
+    .container
+      .row-wrapper
+        //include ../includes/modules/breadcrumbs
+        h1 yo all!
