@@ -1,0 +1,59 @@
+.header {
+  width: 100%;
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.header__left {
+
+}
+
+.short-news__list {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.short-news__item {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-right: 20px;
+
+  &:last-child {
+    margin: 0;
+  }
+}
+
+.short-news__image {
+  display: block;
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+
+  &--background {
+    background-size: cover;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-image: url("http://lorempixel.com/60/60");
+  }
+}
+
+.short-news__content {
+  color: $color-1;
+  //font-family: Arial;
+  font-size: 11px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  max-width: 140px;
+  max-height: 42px;
+  overflow: hidden;
+}
