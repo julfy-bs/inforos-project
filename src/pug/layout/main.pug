@@ -14,11 +14,15 @@ html(lang="en")
   block script
     .body__wrapper
       include ../includes/modules/header
-      //include ../includes/modules/nav
-
-      .content-wrapper
-        block content
-      //include ../includes/modules/footer
+      .container
+        .main__wrapper
+          main.column-wrapper.column-wrapper--main
+            include ../includes/modules/nav
+            .content-wrapper
+              block content
+          sidebar.column-wrapper.column-wrapper--sidebar
+            include ../includes/modules/sidebarLogin
+          //include ../includes/modules/footer
 
 
 

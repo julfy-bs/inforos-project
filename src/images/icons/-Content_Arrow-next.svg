@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .a {
+        fill: url(#a);
+      }
+
+      .b {
+        fill: url(#b);
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="a" x1="11" y1="21.5" x2="11" y2="0.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a52300"/>
+      <stop offset="0.998" stop-color="#e63718"/>
+    </linearGradient>
+    <linearGradient id="b" x1="11" y1="21.5" x2="11" y2="0.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a52800"/>
+      <stop offset="0.997" stop-color="#962300"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <circle class="a" cx="11" cy="11" r="10.5"/>
+      <path class="b" d="M11,.9A10.1,10.1,0,1,1,.9,11,10.112,10.112,0,0,1,11,.9m0-.4A10.5,10.5,0,1,0,21.5,11,10.5,10.5,0,0,0,11,.5Z"/>
+    </g>
+    <rect class="c" width="22" height="22"/>
+    <polygon class="d" points="9.53 16.53 8.47 15.47 12.939 11 8.47 6.53 9.53 5.47 15.061 11 9.53 16.53"/>
+  </g>
+</svg>

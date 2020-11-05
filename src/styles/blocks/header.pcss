@@ -10,10 +10,15 @@
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
+  padding: 20px 0 0;
 }
 
 .header__left {
-
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 20px;
 }
 
 .short-news__list {
@@ -26,6 +31,7 @@
   display: flex;
   flex-flow: row nowrap;
   margin-right: 20px;
+  flex-shrink: 1;
 
   &:last-child {
     margin: 0;
@@ -33,10 +39,13 @@
 }
 
 .short-news__image {
-  display: block;
-  width: 60px;
-  height: 60px;
+  display: flex;
+  width: 100%;
+  min-width: 60px;
+  max-width: 60px;
+  min-height: 60px;
   margin-right: 10px;
+  flex-shrink: 2;
 
   &--background {
     background-size: cover;
@@ -47,13 +56,150 @@
 }
 
 .short-news__content {
+  display: flex;
+  flex-shrink: 1;
   color: $color-1;
-  //font-family: Arial;
   font-size: 11px;
-  font-style: normal;
-  letter-spacing: normal;
-  line-height: normal;
+  font-weight: 400;
   max-width: 140px;
   max-height: 42px;
   overflow: hidden;
+}
+
+.header__right {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 50%;
+  flex: 1 1 50%;
+  margin-left: 20px;
+}
+
+.header-quote {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  width: 100%;
+  font-size: 11px;
+}
+
+.header-quote__image {
+  width: 100%;
+  min-height: 130px;
+  max-width: 170px;
+  max-height: 130px;
+  background-image: url("../images/content/putin.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-right: 25px;
+}
+
+.header-quote__content {
+  width: 100%;
+  max-width: 220px;
+  max-height: 110px;
+  background-color: #ffffff;
+  padding: 20px;
+  color: #3787c3;
+  letter-spacing: normal;
+  line-height: normal;
+  position: relative;
+  z-index: 1;
+
+  &:before {
+    content: '';
+    position: absolute;
+    left: -30px;
+    top: 10px;
+    border: 20px solid transparent;
+    border-right: 20px solid #ffffff;
+    border-bottom: 20px solid #ffffff;
+  }
+}
+
+.header-quote__name-span {
+  display: block;
+  color: #333333;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.header-quote__text {
+  font-family: "Arial Italic";
+  color: #3787c3;
+  font-size: 12px;
+}
+
+.header-socials {
+  display: flex;
+  flex-flow: column nowrap;
+  max-width: 105px;
+  max-height: 70px;
+}
+
+.header-socials-top {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.header-socials-top__permission {
+  width: 32px;
+  height: 32px;
+  background: svg-load("permission_18.svg", width=100%, height=100%) center center no-repeat;
+  margin-right: 15px;
+}
+
+.header-socials-top__russian, .header-socials-top__english {
+  width: 25px;
+  height: 16px;
+}
+
+.header-socials-top__russian {
+  background: svg-load("flag_RU.svg", width=100%, height=100%) center center no-repeat;
+  margin-right: 10px;
+}
+
+.header-socials-top__english {
+  background: svg-load("flag_EN.svg", width=100%, height=100%) center center no-repeat;
+}
+
+.header-socials-bottom {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.header-socials-bottom__link {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+
+  &:last-child {
+    margin: 0;
+  }
+}
+
+.header-socials-bottom__twitter {
+  background: svg-load("twitter.svg", width=100%, height=100%) center center no-repeat;
+}
+
+.header-socials-bottom__google {
+  background: svg-load("google.svg", width=100%, height=100%) center center no-repeat;
+}
+
+.header-socials-bottom__facebook {
+  background: svg-load("facebook.svg", width=100%, height=100%) center center no-repeat;
+}
+
+.header-socials-bottom__vk {
+  background: svg-load("vk.svg", width=100%, height=100%) center center no-repeat;
+}
+
+.header-socials-bottom__rss {
+  background: svg-load("rss.svg", width=100%, height=100%) center center no-repeat;
 }

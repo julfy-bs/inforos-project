@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="205" height="110" viewBox="0 0 205 110">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: url(#a);
+      }
+    </style>
+    <linearGradient id="a" x1="102.5" y1="110" x2="102.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#d1dee8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d1dee8"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <polygon class="a" points="23 110 205 110 205 0 23 0 23 15.5 0 29 23 29 23 110"/>
+    <path class="b" d="M204,1V109H24V28H3.679L23.506,16.362,24,16.073V1H204m1-1H23V15.5L0,29H23v81H205V0Z"/>
+  </g>
+</svg>

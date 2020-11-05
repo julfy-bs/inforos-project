@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="306" height="44" viewBox="0 0 306 44">
+  <defs>
+    <style>
+      .a {
+        fill: #143755;
+      }
+
+      .a, .b, .c, .d {
+        fill-rule: evenodd;
+      }
+
+      .b {
+        fill: url(#a);
+      }
+
+      .c {
+        fill: #ff9100;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="a" x1="153" y1="43" x2="153" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#266ca0"/>
+      <stop offset="0.75" stop-color="#3a8dc6"/>
+      <stop offset="1" stop-color="#3b8ec9"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <path class="a" d="M306,36H9.963a10,10,0,0,0-9.3,6.32L0,44V12A10,10,0,0,1,10,2H306Z"/>
+      <path class="b" d="M306,33H10.489A10,10,0,0,0,.956,39.981L0,43V10A10,10,0,0,1,10,0H306Z"/>
+    </g>
+    <g>
+      <polygon class="c" points="306 11.031 306 0.063 295 0.063 306 11.031"/>
+      <polygon class="d" points="294 0.063 306 12.063 306 10.5 295.5 0.063 294 0.063"/>
+    </g>
+  </g>
+</svg>

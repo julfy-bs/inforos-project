@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="724" viewBox="0 0 240 724">
+  <defs>
+    <style>
+      .a {
+        fill: #fbfaf8;
+      }
+
+      .b {
+        fill: #e7e7e7;
+      }
+
+      .c, .j {
+        font-size: 12px;
+        font-family: ArialMT, Arial;
+      }
+
+      .c {
+        fill: #235a87;
+      }
+
+      .d {
+        letter-spacing: -0.011em;
+      }
+
+      .e {
+        fill: #143755;
+      }
+
+      .e, .f, .g, .h {
+        fill-rule: evenodd;
+      }
+
+      .f {
+        fill: url(#a);
+      }
+
+      .g {
+        fill: #ff9100;
+      }
+
+      .h, .q {
+        fill: #fff;
+      }
+
+      .i {
+        fill: none;
+        stroke: #b4b4b4;
+        stroke-miterlimit: 10;
+        stroke-dasharray: 1 2;
+      }
+
+      .j {
+        fill: #3787c3;
+      }
+
+      .k {
+        letter-spacing: -0.022em;
+      }
+
+      .l {
+        letter-spacing: -0.033em;
+      }
+
+      .m {
+        letter-spacing: 0.011em;
+      }
+
+      .n {
+        letter-spacing: -0.045em;
+      }
+
+      .o {
+        letter-spacing: -0.023em;
+      }
+
+      .p {
+        letter-spacing: -0.044em;
+      }
+
+      .q {
+        font-size: 13px;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+        letter-spacing: -0.015em;
+      }
+
+      .r {
+        letter-spacing: 0.01em;
+      }
+
+      .s {
+        letter-spacing: 0.01em;
+      }
+    </style>
+    <linearGradient id="a" x1="120" y1="43" x2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#266ca0"/>
+      <stop offset="0.75" stop-color="#3a8dc6"/>
+      <stop offset="1" stop-color="#3b8ec9"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <rect class="a" x="0.5" y="19.5" width="239" height="704" rx="4.5"/>
+      <path class="b" d="M235,20a4,4,0,0,1,4,4V719a4,4,0,0,1-4,4H5a4,4,0,0,1-4-4V24a4,4,0,0,1,4-4H235m0-1H5a5,5,0,0,0-5,5V719a5,5,0,0,0,5,5H235a5,5,0,0,0,5-5V24a5,5,0,0,0-5-5Z"/>
+    </g>
+    <text class="c" transform="translate(151.574 706.499)">Все но<tspan class="d" x="37.313" y="0">в</tspan><tspan x="43.553" y="0">ости</tspan></text>
+    <g>
+      <g>
+        <path class="e" d="M240,36H9.963a10,10,0,0,0-9.3,6.319L0,44V12A10,10,0,0,1,10,2H240Z"/>
+        <path class="f" d="M240,33H10.489A10,10,0,0,0,.956,39.981L0,43V10A10,10,0,0,1,10,0H240Z"/>
+      </g>
+      <g>
+        <polygon class="g" points="240 11.031 240 0.063 229 0.063 240 11.031"/>
+        <polygon class="h" points="228 0.063 240 12.063 240 10.5 229.5 0.063 228 0.063"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="57" width="1" height="1"/>
+        <rect x="20" y="58" width="1" height="1"/>
+        <rect x="21" y="59" width="1" height="1"/>
+        <rect x="20" y="60" width="1" height="1"/>
+        <rect x="19" y="61" width="1" height="1"/>
+        <rect x="18" y="59" width="1" height="1"/>
+      </g>
+      <line class="i" y1="111.5" x2="240" y2="111.5"/>
+      <text class="j" transform="translate(28 64.592)">В<tspan class="k" x="8.004" y="0">о</tspan><tspan x="14.414" y="0">ди</tspan><tspan class="d" x="28.119" y="0">т</tspan><tspan class="l" x="33.48" y="0">е</tspan><tspan x="39.756" y="0">ль, </tspan><tspan class="d" x="59.678" y="0">в</tspan><tspan x="65.918" y="0">ор</tspan><tspan class="d" x="79.266" y="0">в</tspan><tspan x="85.506" y="0">авшийся в офис </tspan><tspan x="0" y="16">&quot;Янде</tspan><tspan class="m" x="33.229" y="16">к</tspan><tspan x="38.613" y="16">с.</tspan><tspan class="n" x="47.947" y="16">Т</tspan><tspan x="54.738" y="16">а</tspan><tspan class="m" x="61.412" y="16">к</tspan><tspan x="66.797" y="16">си&quot;, не был </tspan><tspan x="0" y="32">за</tspan><tspan class="n" x="12.176" y="32">б</tspan><tspan class="m" x="18.51" y="32">л</tspan><tspan x="25.646" y="32">окиро</tspan><tspan class="d" x="57.621" y="32">в</tspan><tspan x="63.861" y="32">ан в сервисе</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="129" width="1" height="1"/>
+        <rect x="20" y="130" width="1" height="1"/>
+        <rect x="21" y="131" width="1" height="1"/>
+        <rect x="20" y="132" width="1" height="1"/>
+        <rect x="19" y="133" width="1" height="1"/>
+        <rect x="18" y="131" width="1" height="1"/>
+      </g>
+      <line class="i" y1="182.25" x2="240" y2="182.25"/>
+      <text class="j" transform="translate(28 136.342)">А<tspan class="d" x="8.004" y="0">з</tspan><tspan x="13.371" y="0">ер</tspan><tspan class="o" x="26.719" y="0">б</tspan><tspan x="33.316" y="0">айджан при поср</tspan><tspan class="k" x="127.412" y="0">е</tspan><tspan x="133.822" y="0">дничест</tspan><tspan class="d" x="178.576" y="0">в</tspan><tspan x="184.816" y="0">е </tspan><tspan class="p" x="0" y="16">Р</tspan><tspan x="7.477" y="16">оссии пер</tspan><tspan class="k" x="62.736" y="16">е</tspan><tspan x="69.146" y="16">дал армянс</tspan><tspan class="m" x="133.881" y="16">к</tspan><tspan x="139.266" y="16">ой </tspan><tspan x="0" y="32">с</tspan><tspan class="d" x="6" y="32">т</tspan><tspan x="11.361" y="32">ороне </tspan><tspan class="d" x="48.018" y="32">т</tspan><tspan class="l" x="53.379" y="32">е</tspan><tspan x="59.654" y="32">ла 30 </tspan><tspan class="d" x="93.346" y="32">в</tspan><tspan x="99.586" y="32">оенносл</tspan><tspan class="m" x="145.863" y="32">у</tspan><tspan x="151.998" y="32">жащих</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="197" width="1" height="1"/>
+        <rect x="20" y="198" width="1" height="1"/>
+        <rect x="21" y="199" width="1" height="1"/>
+        <rect x="20" y="200" width="1" height="1"/>
+        <rect x="19" y="201" width="1" height="1"/>
+        <rect x="18" y="199" width="1" height="1"/>
+      </g>
+      <line class="i" y1="232.5" x2="240" y2="232.5"/>
+      <text class="j" transform="translate(28 204.092)">Цена не<tspan class="k" x="45.486" y="0">ф</tspan><tspan x="55.096" y="0">ти Brent оп</tspan><tspan class="d" x="115.816" y="0">у</tspan><tspan x="121.682" y="0">стилась </tspan><tspan x="0" y="16">ниже $39</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="249" width="1" height="1"/>
+        <rect x="20" y="250" width="1" height="1"/>
+        <rect x="21" y="251" width="1" height="1"/>
+        <rect x="20" y="252" width="1" height="1"/>
+        <rect x="19" y="253" width="1" height="1"/>
+        <rect x="18" y="251" width="1" height="1"/>
+      </g>
+      <line class="i" y1="301.75" x2="240" y2="301.75"/>
+      <text class="j" transform="translate(28 255.842)">В<tspan class="k" x="8.004" y="0">о</tspan><tspan x="14.414" y="0">ди</tspan><tspan class="d" x="28.119" y="0">т</tspan><tspan class="l" x="33.48" y="0">е</tspan><tspan x="39.756" y="0">ль, </tspan><tspan class="d" x="59.678" y="0">в</tspan><tspan x="65.918" y="0">ор</tspan><tspan class="d" x="79.266" y="0">в</tspan><tspan x="85.506" y="0">авшийся в офис </tspan><tspan x="0" y="16">&quot;Янде</tspan><tspan class="m" x="33.229" y="16">к</tspan><tspan x="38.613" y="16">с.</tspan><tspan class="n" x="47.947" y="16">Т</tspan><tspan x="54.738" y="16">а</tspan><tspan class="m" x="61.412" y="16">к</tspan><tspan x="66.797" y="16">си&quot;, не был </tspan><tspan x="0" y="32">за</tspan><tspan class="n" x="12.176" y="32">б</tspan><tspan class="m" x="18.51" y="32">л</tspan><tspan x="25.646" y="32">окиро</tspan><tspan class="d" x="57.621" y="32">в</tspan><tspan x="63.861" y="32">ан в сервисе</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="317" width="1" height="1"/>
+        <rect x="20" y="318" width="1" height="1"/>
+        <rect x="21" y="319" width="1" height="1"/>
+        <rect x="20" y="320" width="1" height="1"/>
+        <rect x="19" y="321" width="1" height="1"/>
+        <rect x="18" y="319" width="1" height="1"/>
+      </g>
+      <line class="i" y1="371.5" x2="240" y2="371.5"/>
+      <text class="j" transform="translate(28 324.591)">А<tspan class="d" x="8.004" y="0">з</tspan><tspan x="13.371" y="0">ер</tspan><tspan class="o" x="26.719" y="0">б</tspan><tspan x="33.316" y="0">айджан при поср</tspan><tspan class="k" x="127.412" y="0">е</tspan><tspan x="133.822" y="0">дничест</tspan><tspan class="d" x="178.576" y="0">в</tspan><tspan x="184.816" y="0">е </tspan><tspan class="p" x="0" y="16">Р</tspan><tspan x="7.477" y="16">оссии пер</tspan><tspan class="k" x="62.736" y="16">е</tspan><tspan x="69.146" y="16">дал армянс</tspan><tspan class="m" x="133.881" y="16">к</tspan><tspan x="139.266" y="16">ой </tspan><tspan x="0" y="32">с</tspan><tspan class="d" x="6" y="32">т</tspan><tspan x="11.361" y="32">ороне </tspan><tspan class="d" x="48.018" y="32">т</tspan><tspan class="l" x="53.379" y="32">е</tspan><tspan x="59.654" y="32">ла 30 </tspan><tspan class="d" x="93.346" y="32">в</tspan><tspan x="99.586" y="32">оенносл</tspan><tspan class="m" x="145.863" y="32">у</tspan><tspan x="151.998" y="32">жащих</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="386" width="1" height="1"/>
+        <rect x="20" y="387" width="1" height="1"/>
+        <rect x="21" y="388" width="1" height="1"/>
+        <rect x="20" y="389" width="1" height="1"/>
+        <rect x="19" y="390" width="1" height="1"/>
+        <rect x="18" y="388" width="1" height="1"/>
+      </g>
+      <line class="i" y1="421.75" x2="240" y2="421.75"/>
+      <text class="j" transform="translate(28 393.341)">Цена не<tspan class="k" x="45.486" y="0">ф</tspan><tspan x="55.096" y="0">ти Brent оп</tspan><tspan class="d" x="115.816" y="0">у</tspan><tspan x="121.682" y="0">стилась </tspan><tspan x="0" y="16">ниже $39</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="438" width="1" height="1"/>
+        <rect x="20" y="439" width="1" height="1"/>
+        <rect x="21" y="440" width="1" height="1"/>
+        <rect x="20" y="441" width="1" height="1"/>
+        <rect x="19" y="442" width="1" height="1"/>
+        <rect x="18" y="440" width="1" height="1"/>
+      </g>
+      <line class="i" y1="491.5" x2="240" y2="491.5"/>
+      <text class="j" transform="translate(28 445.091)">В<tspan class="k" x="8.004" y="0">о</tspan><tspan x="14.414" y="0">ди</tspan><tspan class="d" x="28.119" y="0">т</tspan><tspan class="l" x="33.48" y="0">е</tspan><tspan x="39.756" y="0">ль, </tspan><tspan class="d" x="59.678" y="0">в</tspan><tspan x="65.918" y="0">ор</tspan><tspan class="d" x="79.266" y="0">в</tspan><tspan x="85.506" y="0">авшийся в офис </tspan><tspan x="0" y="16">&quot;Янде</tspan><tspan class="m" x="33.229" y="16">к</tspan><tspan x="38.613" y="16">с.</tspan><tspan class="n" x="47.947" y="16">Т</tspan><tspan x="54.738" y="16">а</tspan><tspan class="m" x="61.412" y="16">к</tspan><tspan x="66.797" y="16">си&quot;, не был </tspan><tspan x="0" y="32">за</tspan><tspan class="n" x="12.176" y="32">б</tspan><tspan class="m" x="18.51" y="32">л</tspan><tspan x="25.646" y="32">окиро</tspan><tspan class="d" x="57.621" y="32">в</tspan><tspan x="63.861" y="32">ан в сервисе</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="507" width="1" height="1"/>
+        <rect x="20" y="508" width="1" height="1"/>
+        <rect x="21" y="509" width="1" height="1"/>
+        <rect x="20" y="510" width="1" height="1"/>
+        <rect x="19" y="511" width="1" height="1"/>
+        <rect x="18" y="509" width="1" height="1"/>
+      </g>
+      <line class="i" y1="560.749" x2="240" y2="560.75"/>
+      <text class="j" transform="translate(28 513.841)">А<tspan class="d" x="8.004" y="0">з</tspan><tspan x="13.371" y="0">ер</tspan><tspan class="o" x="26.719" y="0">б</tspan><tspan x="33.316" y="0">айджан при поср</tspan><tspan class="k" x="127.412" y="0">е</tspan><tspan x="133.822" y="0">дничест</tspan><tspan class="d" x="178.576" y="0">в</tspan><tspan x="184.816" y="0">е </tspan><tspan class="p" x="0" y="16">Р</tspan><tspan x="7.477" y="16">оссии пер</tspan><tspan class="k" x="62.736" y="16">е</tspan><tspan x="69.146" y="16">дал армянс</tspan><tspan class="m" x="133.881" y="16">к</tspan><tspan x="139.266" y="16">ой </tspan><tspan x="0" y="32">с</tspan><tspan class="d" x="6" y="32">т</tspan><tspan x="11.361" y="32">ороне </tspan><tspan class="d" x="48.018" y="32">т</tspan><tspan class="l" x="53.379" y="32">е</tspan><tspan x="59.654" y="32">ла 30 </tspan><tspan class="d" x="93.346" y="32">в</tspan><tspan x="99.586" y="32">оенносл</tspan><tspan class="m" x="145.863" y="32">у</tspan><tspan x="151.998" y="32">жащих</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="627" width="1" height="1"/>
+        <rect x="20" y="628" width="1" height="1"/>
+        <rect x="21" y="629" width="1" height="1"/>
+        <rect x="20" y="630" width="1" height="1"/>
+        <rect x="19" y="631" width="1" height="1"/>
+        <rect x="18" y="629" width="1" height="1"/>
+      </g>
+      <line class="i" y1="679.75" x2="240" y2="679.75"/>
+      <text class="j" transform="translate(28 633.842)">А<tspan class="d" x="8.004" y="0">з</tspan><tspan x="13.371" y="0">ер</tspan><tspan class="o" x="26.719" y="0">б</tspan><tspan x="33.316" y="0">айджан при поср</tspan><tspan class="k" x="127.412" y="0">е</tspan><tspan x="133.822" y="0">дничест</tspan><tspan class="d" x="178.576" y="0">в</tspan><tspan x="184.816" y="0">е </tspan><tspan class="p" x="0" y="16">Р</tspan><tspan x="7.477" y="16">оссии пер</tspan><tspan class="k" x="62.736" y="16">е</tspan><tspan x="69.146" y="16">дал армянс</tspan><tspan class="m" x="133.881" y="16">к</tspan><tspan x="139.266" y="16">ой </tspan><tspan x="0" y="32">с</tspan><tspan class="d" x="6" y="32">т</tspan><tspan x="11.361" y="32">ороне </tspan><tspan class="d" x="48.018" y="32">т</tspan><tspan class="l" x="53.379" y="32">е</tspan><tspan x="59.654" y="32">ла 30 </tspan><tspan class="d" x="93.346" y="32">в</tspan><tspan x="99.586" y="32">оенносл</tspan><tspan class="m" x="145.863" y="32">у</tspan><tspan x="151.998" y="32">жащих</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect x="19" y="575" width="1" height="1"/>
+        <rect x="20" y="576" width="1" height="1"/>
+        <rect x="21" y="577" width="1" height="1"/>
+        <rect x="20" y="578" width="1" height="1"/>
+        <rect x="19" y="579" width="1" height="1"/>
+        <rect x="18" y="577" width="1" height="1"/>
+      </g>
+      <line class="i" y1="610.5" x2="240" y2="610.5"/>
+      <text class="j" transform="translate(28 582.591)">Цена не<tspan class="k" x="45.486" y="0">ф</tspan><tspan x="55.096" y="0">ти Brent оп</tspan><tspan class="d" x="115.816" y="0">у</tspan><tspan x="121.682" y="0">стилась </tspan><tspan x="0" y="16">ниже $39</tspan></text>
+    </g>
+    <text class="q" transform="translate(57.799 23)">Т<tspan class="r" x="7.747" y="0">ОП 10 НО</tspan><tspan x="69.426" y="0">В</tspan><tspan class="s" x="78.621" y="0">О</tspan><tspan x="88.863" y="0">С</tspan><tspan class="r" x="98.057" y="0">ТЕЙ</tspan></text>
+  </g>
+</svg>

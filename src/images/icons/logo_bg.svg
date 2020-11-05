@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="70" viewBox="0 0 350 70">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: url(#a);
+      }
+
+      .c {
+        opacity: 0.88;
+        fill: url(#b);
+      }
+    </style>
+    <linearGradient id="a" x1="180" y1="35" x2="350" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="0.9" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="b" x1="181" y1="35" x2="348" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.6" stop-color="#e6e6e6"/>
+      <stop offset="0.85" stop-color="#e6e6e6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="a" d="M349,0H0V70H183.618C253.486,63.338,325.2,36.564,349,0Z"/>
+    <path class="b" d="M348.984,0C324.812,36.564,250.961,63.338,180,70h2.031C252.992,63.338,325.828,36.564,350,0Z"/>
+    <path class="c" d="M347,0c-23.745,36.564-96.293,63.338-166,70h2C252.7,63.338,324.255,36.564,348,0Z"/>
+  </g>
+</svg>
