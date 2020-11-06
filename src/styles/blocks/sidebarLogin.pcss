@@ -4,5 +4,43 @@
 }
 
 .sidebar-login__wrapper {
+  min-height: 220px;
   background-color: #f0f8fd;
+  padding: 15px 20px;
+  border: 1px solid #e7e7e7;
+}
+
+.sidebar-login__list {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.sidebar-login__item {
+  padding: 10px 0;
+  border-bottom: 1px dashed #b4b4b4;
+}
+
+.login-form-top {
+  color: #235a87;
+  font-size: 13px;
+}
+
+.login-form-top__title {
+  &:before {
+    content: '';
+  }
+}
+
+
+.login-form-bottom {
+  color: #333333;
+  font-size: 12px;
+}
+
+.login-form-bottom__city {
+
+  &:before {
+    content: 'Ваш город:';
+    margin-right: 5px;
+  }
 }
